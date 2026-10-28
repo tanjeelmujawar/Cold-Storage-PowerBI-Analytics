@@ -103,25 +103,11 @@ Advanced analysis for **chamber consolidation** and **energy optimization** is i
 └── README.md
 ```
 
-## Screenshots
 
-Add exported report screenshots to `images/` and replace the placeholders below.
-
-### Dashboard Overview
-
-![Dashboard overview — add images/overview.png](images/overview.png)
-
-### Inventory and Chamber Analysis
-
-![Inventory analysis — add images/inventory.png](images/inventory.png)
-
-### Energy Analysis
-
-![Energy analysis — add images/energy.png](images/energy.png)
 
 ## Author
 
-**Your Name**  
+**Tanjeel Mujawar**  
 Power BI Analytics Portfolio Project
 
 ---
